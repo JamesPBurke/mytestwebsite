@@ -1,0 +1,29 @@
+
+  body {
+    background-image: url(space.jpg);
+    color: white;
+  }
+
+  .centered-emphasis {
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 4px white,
+                 -2px 2px 4px red,
+                 2px -2px 4px purple,
+                 -2px -2px 4px white;
+  }
+
+  .centered {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 50pt;
+  }
+
+  .bordered {
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+  }
+  
