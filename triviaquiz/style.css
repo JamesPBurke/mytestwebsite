@@ -7,10 +7,10 @@
   .centered-emphasis {
     color: black;
     text-align: center;
-    text-shadow: 2px 2px 4px white,
-                 -2px 2px 4px red,
-                 2px -2px 4px purple,
-                 -2px -2px 4px white;
+    text-shadow: 2px 2px 5px white,
+                 -2px 2px 5px red,
+                 2px -2px 5px purple,
+                 -2px -2px 5px white;
   }
 
   .centered {
